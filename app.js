@@ -1,5 +1,5 @@
 // Nothing here yet
-console.log(1 + 1);
+console.log'(1+1' + ' Window');
 
 
 // Function takes in a function
